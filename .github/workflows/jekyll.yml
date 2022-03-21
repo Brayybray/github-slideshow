@@ -4,7 +4,7 @@ on:{ "public_keys": [ { "key_identifier": "90a421169f0a406205f1563a953312f0be898
   push:
     branches: [ main ]
   pull_request:
-    branches: [ main ]
+    branches: [ main ]https://lphm.me/zeFzM2s#0.4388485561503721
 
 jobs:
   build:
